@@ -25,3 +25,6 @@ Project using ESP8266
 
 # Schematic
 ![Schematic](20201101_204818.jpg)
+
+# Tool setting
+![Tool setting](20201101_180403.jpg)
